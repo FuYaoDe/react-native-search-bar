@@ -3,5 +3,5 @@ Pod::Spec.new do |s|
   s.version      = "2.8.0"
   s.source_files  = "*.{h,m}"
   s.dependency 'React'
-  s.platform = :ios, "8.0"
+  s.platform = :ios, "7.0"
 end
